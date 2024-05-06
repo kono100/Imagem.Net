@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|d:\\onedrive\\aulas\\asp .net core mvc\\nova gera\u00E7\u00E3o\\07 - imagens\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|d:\\onedrive\\aulas\\asp .net core mvc\\nova gera\u00E7\u00E3o\\07 - imagens\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|d:\\onedrive\\aulas\\asp .net core mvc\\nova gera\u00E7\u00E3o\\07 - imagens\\views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|solutionrelative:views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|d:\\onedrive\\aulas\\asp .net core mvc\\nova gera\u00E7\u00E3o\\07 - imagens\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|solutionrelative:views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|d:\\onedrive\\aulas\\asp .net core mvc\\nova gera\u00E7\u00E3o\\07 - imagens\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|solutionrelative:views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|d:\\onedrive\\aulas\\asp .net core mvc\\nova gera\u00E7\u00E3o\\07 - imagens\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5C6BC6-D276-4E0B-8AF0-73561B780649}|Imagens.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T22:34:22.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Views\\Produto\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Details.cshtml",
+              "ToolTip": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Views\\Produto\\Details.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T22:34:18.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T22:34:18.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:34:18.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T22:34:18.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\OneDrive\\Aulas\\ASP .NET core MVC\\Nova Gera\u00E7\u00E3o\\07 - Imagens\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:34:18.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
